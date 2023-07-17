@@ -1,0 +1,13 @@
+{
+  "name": "js-framework--remix-research",
+  "version": "1.0.0",
+  "description": "https://github.com/remix-run",
+  "main": "1 p3.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

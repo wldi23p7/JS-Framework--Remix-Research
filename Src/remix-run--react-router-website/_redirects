@@ -1,0 +1,16 @@
+# [source] [dest] [status?]
+# /foo /bar
+# /foo /bar 301
+# /foo/* /bar/* 301
+
+# old convenience API redirects
+/api /*
+
+# removed `/docs` prefix
+/docs/en/v6/* /en/v6.3.0/*
+/docs/* /*
+
+# Router v5 Redirects
+/core/* https://v5.reactrouter.com/core/*
+/web/* https://v5.reactrouter.com/web/*
+/native/* https://v5.reactrouter.com/native/*
