@@ -1,0 +1,83 @@
+{
+    "workbench.colorTheme": "Soothing Theme JK 1",
+    "window.newWindowDimensions": "offset",
+  
+    "window.newWindowDimensions": "maximized",
+    "window.restoreWindows": "none",
+    "files.exclude": {
+      "**/.git": false
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "editor.find.seedSearchStringFromSelection": "never",
+    "prettier.printWidth": 1000000,
+    "prettier.tabWidth": 2,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "editor.semanticTokenColorCustomizations": {
+    //   "rules": {
+    //     "markdown": {"foreground": "#ffffff"}
+    //   }
+    // },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.foldingMaximumRegions": 65000,
+    "workbench.tree.indent": 4,
+    "codestream.serverUrl": "https://api.codestream.com",
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.sortOrder": "type",
+    "diffEditor.wordWrap": "off",
+    "html.format.wrapLineLength": 1200,
+    "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+    "remote.SSH.configFile": "/var/folders/p6/zh67xs5x5dg6pvdv7crwm3m00000gn/T/gitpod_ssh_config-7394-EOms9U6P9C7w",
+    "[xml]": {
+      "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "terminal.integrated.scrollback": 100000,
+    "emmet.includeLanguages": {
+      "html": "html"
+    },
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+  
+    "editor.scrollbar.vertical": "visible",
+    "editor.tabSize": 2,
+    "svelte.enable-ts-plugin": true,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "editor.stickyScroll.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+  
+    "window.zoomLevel": 1,
+    "filesExplorer.openFilePreserveFocus": true,
+    "git.decorations.enabled": false,
+    "explorer.decorations.colors": false,
+  
+    "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "editor.fontLigatures": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "apklab.apkSignerPath": "/Users/jordan/.apklab/uber-apk-signer-1.2.1.jar",
+  "apklab.jadxDirPath": "/Users/jordan/.apklab/jadx-1.4.6",
+  "apklab.apktoolPath": "/Users/jordan/.apklab/apktool_2.7.0.jar",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "search.maxResults": null,
+  "editor.detectIndentation": false,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "editor.fontSize": 18,
+  
+  }
+  
